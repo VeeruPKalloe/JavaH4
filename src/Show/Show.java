@@ -59,7 +59,7 @@ import java.applet.*;
             g.drawString("40", 575, 187);
             g.drawString("60", 575, 134);
             g.drawString("80", 575, 81);
-            g.drawString("100", 573, 28);
+            g.drawString("100", 574, 28);
             g.setColor(Color.green);
             g.fillRect(661, 186, 19, 104);
             g.setColor(Color.BLACK);
