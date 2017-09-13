@@ -17,7 +17,7 @@ public class H4PraktijkOpdracht extends Applet {
         g.fillRect(325, 150, 250, 150);
         g.setColor(Color.BLACK);
         g.drawOval(325, 150, 250, 150);
-        g.drawString("Gevulde rechthoek", 400, 325);
+        g.drawString("Gevulde rechthoek", 401, 325);
         g.drawOval(600, 150, 250, 150);
         g.fillArc(620, 150, 200,123, 45, 90);
         g.drawRoundRect(50, 350, 250, 150, 20, 20);
